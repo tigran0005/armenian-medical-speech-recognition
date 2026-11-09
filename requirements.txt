@@ -1,0 +1,6 @@
+torch
+torchaudio
+transformers
+silero-vad
+soundfile
+jiwer

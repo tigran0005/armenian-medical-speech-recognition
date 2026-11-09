@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Audio and datasets
+*.wav
+*.mp3
+*.flac
+data/
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+Thumbs.db
